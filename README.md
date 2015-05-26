@@ -5,5 +5,5 @@
 
 #### Η Οθόνη της εφαρμογής και τα περιεχόμενά της
 
-![alt tag](https://github.com/gpasxalis/gpasxalisRepository/blob/master/screenshots/blocks1.jpg)
+![alt tag](https://github.com/gpasxalis/gpasxalisRepository/blob/master/screenshots/appblocks1.jpg)
 
